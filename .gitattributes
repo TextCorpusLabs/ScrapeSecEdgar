@@ -1,0 +1,5 @@
+* text=auto
+
+*.rmd linguist-language=R
+
+data/* linguist-vendored
