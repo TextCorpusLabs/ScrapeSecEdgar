@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1154950.svg)][doi]
+
 # Introduction
 
 Pulls down all the SEC filings from [EDGAR][edgar] by filing type for a given time range.
@@ -36,3 +38,4 @@ ScrapeSecEdgar.exe -s 2017/08/05
 ---------
 
 [edgar]: https://www.sec.gov/edgar.shtml
+[doi]: https://doi.org/10.5281/zenodo.1154950
